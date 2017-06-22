@@ -1,0 +1,20 @@
+c:\users\shawn\documents\visual studio 2015\Projects\ClientForm\ClientForm\bin\Debug\ClientForm.exe.config
+c:\users\shawn\documents\visual studio 2015\Projects\ClientForm\ClientForm\bin\Debug\ClientForm.exe
+c:\users\shawn\documents\visual studio 2015\Projects\ClientForm\ClientForm\bin\Debug\ClientForm.pdb
+c:\users\shawn\documents\visual studio 2015\Projects\ClientForm\ClientForm\obj\Debug\ClientForm.Form1.resources
+c:\users\shawn\documents\visual studio 2015\Projects\ClientForm\ClientForm\obj\Debug\ClientForm.Properties.Resources.resources
+c:\users\shawn\documents\visual studio 2015\Projects\ClientForm\ClientForm\obj\Debug\ClientForm.csproj.GenerateResource.Cache
+c:\users\shawn\documents\visual studio 2015\Projects\ClientForm\ClientForm\obj\Debug\ClientForm.exe
+c:\users\shawn\documents\visual studio 2015\Projects\ClientForm\ClientForm\obj\Debug\ClientForm.pdb
+C:\Users\Shawn\documents\visual studio 2015\Projects\ClientForm\ClientForm\obj\Debug\ClientForm.Settings.resources
+C:\Users\Shawn\Documents\Visual Studio 2015\Projects\ClientForm\ClientForm\obj\Debug\ClientForm.csprojResolveAssemblyReference.cache
+E:\Programming\CSharp\Projects\Chat Client\ClientForm\ClientForm\bin\Debug\ClientForm.exe.config
+E:\Programming\CSharp\Projects\Chat Client\ClientForm\ClientForm\obj\Debug\ClientForm.exe
+E:\Programming\CSharp\Projects\Chat Client\ClientForm\ClientForm\obj\Debug\ClientForm.pdb
+E:\Programming\CSharp\Projects\Chat Client\ClientForm\ClientForm\bin\Debug\ClientForm.exe
+E:\Programming\CSharp\Projects\Chat Client\ClientForm\ClientForm\bin\Debug\ClientForm.pdb
+E:\Programming\CSharp\Projects\Chat Client\ClientForm\ClientForm\obj\Debug\ClientForm.csprojResolveAssemblyReference.cache
+E:\Programming\CSharp\Projects\Chat Client\ClientForm\ClientForm\obj\Debug\ClientForm.Form1.resources
+E:\Programming\CSharp\Projects\Chat Client\ClientForm\ClientForm\obj\Debug\ClientForm.Properties.Resources.resources
+E:\Programming\CSharp\Projects\Chat Client\ClientForm\ClientForm\obj\Debug\ClientForm.Settings.resources
+E:\Programming\CSharp\Projects\Chat Client\ClientForm\ClientForm\obj\Debug\ClientForm.csproj.GenerateResource.Cache

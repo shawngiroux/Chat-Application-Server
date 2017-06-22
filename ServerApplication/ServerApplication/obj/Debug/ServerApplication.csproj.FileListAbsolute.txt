@@ -1,0 +1,12 @@
+c:\users\shawn\documents\visual studio 2015\Projects\ServerApplication\ServerApplication\bin\Debug\ServerApplication.exe.config
+C:\Users\Shawn\Documents\Visual Studio 2015\Projects\ServerApplication\ServerApplication\bin\Debug\ServerApplication.exe
+C:\Users\Shawn\Documents\Visual Studio 2015\Projects\ServerApplication\ServerApplication\bin\Debug\ServerApplication.pdb
+C:\Users\Shawn\Documents\Visual Studio 2015\Projects\ServerApplication\ServerApplication\obj\Debug\ServerApplication.csprojResolveAssemblyReference.cache
+C:\Users\Shawn\Documents\Visual Studio 2015\Projects\ServerApplication\ServerApplication\obj\Debug\ServerApplication.exe
+C:\Users\Shawn\Documents\Visual Studio 2015\Projects\ServerApplication\ServerApplication\obj\Debug\ServerApplication.pdb
+E:\Programming\CSharp\Projects\Chat Server\ServerApplication\ServerApplication\bin\Debug\ServerApplication.exe.config
+E:\Programming\CSharp\Projects\Chat Server\ServerApplication\ServerApplication\obj\Debug\ServerApplication.exe
+E:\Programming\CSharp\Projects\Chat Server\ServerApplication\ServerApplication\obj\Debug\ServerApplication.pdb
+E:\Programming\CSharp\Projects\Chat Server\ServerApplication\ServerApplication\bin\Debug\ServerApplication.exe
+E:\Programming\CSharp\Projects\Chat Server\ServerApplication\ServerApplication\bin\Debug\ServerApplication.pdb
+E:\Programming\CSharp\Projects\Chat Server\ServerApplication\ServerApplication\obj\Debug\ServerApplication.csprojResolveAssemblyReference.cache
